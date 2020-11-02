@@ -1,0 +1,19 @@
+{
+  "name": "language-guesser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xaviguasch/language-guesser-miniapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xaviguasch/language-guesser-miniapp/issues"
+  },
+  "homepage": "https://github.com/xaviguasch/language-guesser-miniapp#readme"
+}
